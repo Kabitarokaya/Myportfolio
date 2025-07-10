@@ -127,7 +127,12 @@ background: rgb(243, 240, 240);  }
 
   }
 
-  
+  .box1{
+    width:700px;
+  }
+  .box{
+    width:700px;
+  }
 
   .box1 span{
     color: rgb(133, 12, 32);
